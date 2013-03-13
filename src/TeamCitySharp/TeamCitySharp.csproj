@@ -53,7 +53,9 @@
     <Compile Include="ActionTypes\BuildArtifacts.cs" />
     <Compile Include="ActionTypes\BuildConfigs.cs" />
     <Compile Include="ActionTypes\Builds.cs" />
+    <Compile Include="ActionTypes\BuildStats.cs" />
     <Compile Include="ActionTypes\Changes.cs" />
+    <Compile Include="ActionTypes\IBuildStats.cs" />
     <Compile Include="ActionTypes\IAgents.cs" />
     <Compile Include="ActionTypes\IBuildArtifacts.cs" />
     <Compile Include="ActionTypes\IBuildConfigs.cs" />

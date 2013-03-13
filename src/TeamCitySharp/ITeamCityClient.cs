@@ -16,5 +16,6 @@ namespace TeamCitySharp
         IVcsRoots VcsRoots { get; }
         IChanges Changes { get; }
         IBuildArtifacts Artifacts { get; }
+        IBuildStats BuildStats { get; }
     }
 }
